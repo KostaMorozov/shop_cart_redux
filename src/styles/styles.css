@@ -1,0 +1,17 @@
+.shopCart {
+  text-align: center;
+  font-size: xx-large;
+}
+.totalIsEmpty {
+  text-align: center;
+  font-size: x-large;
+  margin-top: 2rem;
+}
+.counters {
+  text-align: center;
+  margin-top: 2rem;
+}
+.btn {
+  margin: 0.5rem;
+  width: 8rem;
+}
